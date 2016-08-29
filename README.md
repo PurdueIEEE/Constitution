@@ -180,7 +180,7 @@ SECTION 3. Departure from Office
 
 **Article V - Officers and Duties**
 
-SECTION 1.** **List of Voting Executive Committee Members
+SECTION 1. List of Voting Executive Committee Members
 
 * President
 
