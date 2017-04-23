@@ -27,7 +27,7 @@
         
         \vspace{20pt}
         
-        \includegraphics[height=0.20\textheight,width=0.50\textwidth,keepaspectratio]{ROV_Logo}
+        \includegraphics[height=0.20\textheight,width=0.50\textwidth,keepaspectratio]{PARTIEEE_Logo}
         
         \vspace{16pt}
         
