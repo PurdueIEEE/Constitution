@@ -25,9 +25,9 @@
     \begin{center}
         \includegraphics[width=0.50\textwidth]{ieee_mb_blue_4c}
         
-        \vspace{20pt}
-        
-        \includegraphics[height=0.20\textheight,width=0.50\textwidth,keepaspectratio]{ROV_Logo}
+%        \vspace{20pt}
+%
+%        \includegraphics[height=0.20\textheight,width=0.50\textwidth,keepaspectratio]{PARTIEEE_Logo}
         
         \vspace{16pt}
         
