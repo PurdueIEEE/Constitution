@@ -5,7 +5,7 @@
 \LoadClass{report}
 
 \RequirePackage[letterpaper,margin=1in]{geometry}
-\RequirePackage[colorlinks=false,linktoc=section,linkcolor=blue,urlcolor=blue]{hyperref}
+\RequirePackage[colorlinks=true,linktoc=section,linkcolor=\color{blue},urlcolor=\color{blue}]{hyperref}
 %\usepackage{hyperref}
 \RequirePackage{titlesec}
 \RequirePackage{titletoc}
@@ -75,7 +75,7 @@
 \@addtoreset{section}{article}
 \makeatother
 \titleformat{\section}[hang]{\normalfont\scshape}
-{Section \thesection.}{0.5em}{}[\vspace{-12pt}] % hang is the best shaped
+{Section \thesection.}{0.5em}{}[\vspace{-5pt}] % hang is the best shaped
 
 \renewcommand{\thesection}{\arabic{section}} 
 \renewcommand{\theenumi}{\alph{enumi}}
