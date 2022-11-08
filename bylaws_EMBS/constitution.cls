@@ -23,9 +23,9 @@
     % Title
     \makeatletter
     \begin{center}
-        \includegraphics[width=0.50\textwidth]{ieee_mb_blue_4c}
+        \includegraphics[width=0.80\textwidth]{purdue_ieee_logo-primary-horizontal_text.png}
         
-        \vspace{20pt}
+        \vspace{10pt}
         
         \includegraphics[height=0.20\textheight,width=0.50\textwidth,keepaspectratio]{EMBS_logo_for_printing_Reflex_Blue} % from http://ww1.prweb.com/prfiles/2013/07/16/11552769/EMBS%20logo%20for%20printing_Reflex%20Blue.jpg
         
@@ -84,3 +84,4 @@
 \renewcommand{\thesection}{\arabic{section}} 
 \renewcommand{\theenumi}{\alph{enumi}}
 \renewcommand{\theenumii}{\roman{enumii}}
+
