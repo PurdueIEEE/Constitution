@@ -23,9 +23,9 @@
     % Title
     \makeatletter
     \begin{center}
-        \includegraphics[width=0.50\textwidth]{ieee_mb_blue_4c}
+        \includegraphics[width=0.80\textwidth]{purdue_ieee_logo-primary-horizontal_text.png}
         
-        \vspace{20pt}
+        \vspace{10pt}
         
         \includegraphics[height=0.20\textheight,width=0.50\textwidth,keepaspectratio]{ROV_Logo}
         
